@@ -1,0 +1,10 @@
+{
+    "Sigma": ["a", "b"],
+    "InitialState": "q0",
+    "AcceptingStates": ["q2"],
+    "States": {
+        "q0": {"a": "q1", "b": "q0"},
+        "q1": {"b": "q2", "a": "q1"},
+        "q2": {"a": "q2", "b": "q2"}
+    }
+}
