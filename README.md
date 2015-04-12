@@ -31,7 +31,7 @@ Below is an example DFA which tells whether or not a string in the alphabet of {
 
 # Command Line Usage
 Below is the help for the command line:
-```sh
+```
 usage: dfa_reader.py [-h] [-show-path] dfa_file strings [strings ...]
 
 positional arguments:
