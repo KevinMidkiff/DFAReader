@@ -1,4 +1,5 @@
 #!/bin/python
+# Created by Kevin Midkiff 4/12/15
 """
 DFA Reader
 
